@@ -5,7 +5,7 @@ This is an novel tool using the IPRO suite of programs that is capable of engine
 This is currently set up such that it requires CHARMM and GAMS licenses and the protein to be aligned such that the pore axis coincides with the Y axis. 
 Contact: ratul@psu.edu
 
-### Download Link: [shorturl.at/ejzJX](https://drive.google.com/drive/folders/11_bNo9slFC1uLapUMJjRcvQyY1IKjyuC)
+### Download here: [dropbox link](https://www.dropbox.com/sh/hf3r76ipboymyw2/AAAS7BK0KQe77k9Qi68hf24Ta?dl=0)
 
 
 

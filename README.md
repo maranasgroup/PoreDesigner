@@ -6,7 +6,7 @@ This is currently set up such that it requires CHARMM and GAMS licenses and the 
 Contact: ratul@psu.edu
 
 ### Download here: [dropbox link](https://www.dropbox.com/sh/hf3r76ipboymyw2/AAAS7BK0KQe77k9Qi68hf24Ta?dl=0)
-# See tutorial to use PoreDesigner (LINK: )
+## See tutorial to use PoreDesigner (LINK: coming soon !)
 Note: Please have the following ready before you move to the tutorial:
 1) A valid CHARMM license in your cluster/ workstation/ local where you want to run PoreDesigner
 2) A PDB file of a porin/ channel protein which you want to redesign

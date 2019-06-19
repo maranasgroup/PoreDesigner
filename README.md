@@ -6,8 +6,14 @@ This is currently set up such that it requires CHARMM and GAMS licenses and the 
 Contact: ratul@psu.edu
 
 ### Download here: [dropbox link](https://www.dropbox.com/sh/hf3r76ipboymyw2/AAAS7BK0KQe77k9Qi68hf24Ta?dl=0)
-
-
+# See tutorial to use PoreDesigner (LINK: )
+Note: Please have the following ready before you move to the tutorial:
+1) A valid CHARMM license in your cluster/ workstation/ local where you want to run PoreDesigner
+2) A PDB file of a porin/ channel protein which you want to redesign
+3) A target/ permeating molecule (PDB file) placed at the central cavity of the channel protein
+4) (2) and (3) could be a part of the same PDB file but need to have different chain names
+5) The target molecule governs the design objective: such as (i) just allow permeation, (ii) reject, (iii) interact with the pore wall - through the channel protein.
+6) In the tutorial, we are using E.coli OmpF protein and aiming to reduce its pore size to just allow water.
 
 # PoreAnalyzer
 This is a standalone script used by PoreDesigner to analyze the pore cross-section profile of any beta-barrel or alpha-helical channel protein. Note: Your porin should be aligned such that the pore axis coincides with the Y-axis; this script does not handle that.

@@ -5,7 +5,9 @@ This is an novel tool using the IPRO suite of programs that is capable of engine
 This is currently set up such that it requires CHARMM and GAMS licenses and the protein to be aligned such that the pore axis coincides with the Y axis. 
 Contact: ratul@psu.edu
 
-### Download here: [dropbox link](https://www.dropbox.com/sh/hf3r76ipboymyw2/AAAS7BK0KQe77k9Qi68hf24Ta?dl=0)
+### For downloads and usage: 
+### Please contact Prof. Costas D. Maranas (costas@psu.edu) for information on using PoreDesigner
+
 ## See tutorial to use PoreDesigner (LINK: coming soon !)
 Note: Please have the following ready before you move to the tutorial:
 1) A valid CHARMM license in your cluster/ workstation/ local where you want to run PoreDesigner
